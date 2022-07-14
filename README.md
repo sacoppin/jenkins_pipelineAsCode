@@ -21,5 +21,4 @@ entrer dans docker exec -it jenkins_jenkins_1 bash
 - cd jenkins_pipeline_as_code/caesar-cipher/build/libs
 - java -jar caesar-cipher.jar
 
-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
 ----------------------------------
